@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "32785182231",
+    "project_id": "kataba-app",
+    "storage_bucket": "kataba-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32785182231:android:e5969dcbb1b92e1eff3652",
+        "android_client_info": {
+          "package_name": "Com.KaTaBa.KaTaBa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32785182231-2p7tfulagccdcrm57i9vok6abavjkqfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8pLy02HqPw8Br16brxmaB1xxZxWKkC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32785182231-2p7tfulagccdcrm57i9vok6abavjkqfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32785182231:android:e06d67a6eb3cc606ff3652",
+        "android_client_info": {
+          "package_name": "com.example.trying_flutter_sound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32785182231-2p7tfulagccdcrm57i9vok6abavjkqfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8pLy02HqPw8Br16brxmaB1xxZxWKkC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32785182231-2p7tfulagccdcrm57i9vok6abavjkqfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
